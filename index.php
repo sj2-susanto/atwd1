@@ -76,13 +76,14 @@ try {
         
         echo json_encode(['message' => "Currency '$from' deleted successfully."]);
         exit();
+		
     } elseif ($action == 'put') {
         header('Content-Type: application/json; charset=utf-8');
 
         $rate = $_GET['rate'] ?? null;
         $currencyName = $_GET['currency_name'] ?? null;
 
-        if (!$rate || !$currencyName) {
+        if (!$from || !$rate || !$currencyName) {
             echo json_encode(['error' => ERROR_HASH[1000]]);
             exit();
         }
@@ -102,6 +103,36 @@ try {
 
         echo json_encode(['message' => "Currency '$from' updated/added successfully."]);
         exit();
+		
+	} elseif ($action == 'post') {
+        header('Content-Type: application/json; charset=utf-8');
+
+        $newCurrency = json_decode(file_get_contents('php://input'), true);
+
+        if (!isset($newCurrency['code'], $newCurrency['rate'], $newCurrency['currency_name'])) {
+            echo json_encode(['error' => ERROR_HASH[1000]]);
+            exit();
+        }
+
+        $code = strtoupper($newCurrency['code']);
+        $rate = $newCurrency['rate'];
+        $currencyName = $newCurrency['currency_name'];
+
+        if (!is_numeric($rate) || $rate <= 0) {
+            echo json_encode(['error' => 'Invalid rate value.']);
+            exit();
+        }
+
+        $exchangeData['currencies'][$code] = [
+            'rate' => (float)$rate,
+            'currency_name' => $currencyName,
+            'at' => ['date' => date('Y-m-d H:i:s')]
+        ];
+
+        file_put_contents(DB_FILE, json_encode($exchangeData, JSON_PRETTY_PRINT));
+
+        echo json_encode(['message' => "Currency '$code' added successfully."]);
+        exit();	
     } else {
         $to = strtoupper($_GET['to']);
         $amount = (float)($_GET['amnt']);
