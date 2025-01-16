@@ -1,0 +1,2710 @@
+{
+    "currencies": {
+        "EUR": {
+            "currency_name": "Euro",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 1
+        },
+        "ALL": {
+            "currency_name": "Lek",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 98.060102
+        },
+        "DZD": {
+            "currency_name": "Algerian Dinar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 141.457365
+        },
+        "AOA": {
+            "currency_name": "Kwanza",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 952.405411
+        },
+        "XCD": {
+            "currency_name": "East Caribbean Dollar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 2.822285
+        },
+        "ARS": {
+            "currency_name": "Argentine Peso",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 1074.374645
+        },
+        "AMD": {
+            "currency_name": "Armenian Dram",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 416.938716
+        },
+        "AWG": {
+            "currency_name": "Aruban Florin",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 1.879748
+        },
+        "AZN": {
+            "currency_name": "Azerbaijan Manat",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 1.776272
+        },
+        "BSD": {
+            "currency_name": "Bahamian Dollar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 1.04363
+        },
+        "BHD": {
+            "currency_name": "Bahraini Dinar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 0.393819
+        },
+        "BDT": {
+            "currency_name": "Taka",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 124.719627
+        },
+        "BBD": {
+            "currency_name": "Barbados Dollar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 2.107238
+        },
+        "BYN": {
+            "currency_name": "Belarusian Ruble",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 3.415372
+        },
+        "BZD": {
+            "currency_name": "Belize Dollar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 2.096351
+        },
+        "XOF": {
+            "currency_name": "CFA Franc BCEAO",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 655.219543
+        },
+        "BMD": {
+            "currency_name": "Bermudian Dollar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 1.044305
+        },
+        "INR": {
+            "currency_name": "Indian Rupee",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 89.288363
+        },
+        "BTN": {
+            "currency_name": "Ngultrum",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 89.276945
+        },
+        "BOB": {
+            "currency_name": "Boliviano",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 7.237992
+        },
+        "BOV": {
+            "currency_name": "Mvdol",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": null
+        },
+        "BAM": {
+            "currency_name": "Convertible Mark",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 1.953611
+        },
+        "BWP": {
+            "currency_name": "Pula",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 14.535709
+        },
+        "NOK": {
+            "currency_name": "Norwegian Krone",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 11.856993
+        },
+        "BRL": {
+            "currency_name": "Brazilian Real",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 6.46341
+        },
+        "BND": {
+            "currency_name": "Brunei Dollar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 1.414814
+        },
+        "BGN": {
+            "currency_name": "Bulgarian Lev",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 1.954223
+        },
+        "BIF": {
+            "currency_name": "Burundi Franc",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 3086.241178
+        },
+        "CVE": {
+            "currency_name": "Cabo Verde Escudo",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 110.141035
+        },
+        "KHR": {
+            "currency_name": "Riel",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 4199.354005
+        },
+        "XAF": {
+            "currency_name": "CFA Franc BEAC",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 655.222677
+        },
+        "CAD": {
+            "currency_name": "Canadian Dollar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 1.50218
+        },
+        "KYD": {
+            "currency_name": "Cayman Islands Dollar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 0.869738
+        },
+        "CLP": {
+            "currency_name": "Chilean Peso",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 1040.656411
+        },
+        "CLF": {
+            "currency_name": "Unidad de Fomento",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 0.037714
+        },
+        "CNY": {
+            "currency_name": "Yuan Renminbi",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 7.622588
+        },
+        "COP": {
+            "currency_name": "Colombian Peso",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 4602.250476
+        },
+        "COU": {
+            "currency_name": "Unidad de Valor Real",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": null
+        },
+        "KMF": {
+            "currency_name": "Comorian Franc ",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 486.776523
+        },
+        "CDF": {
+            "currency_name": "Congolese Franc",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 2997.153963
+        },
+        "NZD": {
+            "currency_name": "New Zealand Dollar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 1.845811
+        },
+        "CRC": {
+            "currency_name": "Costa Rican Colon",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 531.604219
+        },
+        "CUP": {
+            "currency_name": "Cuban Peso",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 27.674073
+        },
+        "CUC": {
+            "currency_name": "Peso Convertible",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 1.044305
+        },
+        "ANG": {
+            "currency_name": "Netherlands Antillean Guilder",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 1.880892
+        },
+        "CZK": {
+            "currency_name": "Czech Koruna",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 25.217846
+        },
+        "DKK": {
+            "currency_name": "Danish Krone",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 7.459154
+        },
+        "DJF": {
+            "currency_name": "Djibouti Franc",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 185.841723
+        },
+        "DOP": {
+            "currency_name": "Dominican Peso",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 63.548779
+        },
+        "EGP": {
+            "currency_name": "Egyptian Pound",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 53.098504
+        },
+        "SVC": {
+            "currency_name": "El Salvador Colon",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 9.131722
+        },
+        "ERN": {
+            "currency_name": "Nakfa",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 15.664569
+        },
+        "SZL": {
+            "currency_name": "Lilangeni",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 19.561077
+        },
+        "ETB": {
+            "currency_name": "Ethiopian Birr",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 133.306101
+        },
+        "FKP": {
+            "currency_name": "Falkland Islands Pound",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 0.82707
+        },
+        "FJD": {
+            "currency_name": "Fiji Dollar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 2.419706
+        },
+        "XPF": {
+            "currency_name": "CFP Franc",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 119.331742
+        },
+        "GMD": {
+            "currency_name": "Dalasi",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 75.18937
+        },
+        "GEL": {
+            "currency_name": "Lari",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 2.934838
+        },
+        "GHS": {
+            "currency_name": "Ghana Cedi",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 15.342026
+        },
+        "GIP": {
+            "currency_name": "Gibraltar Pound",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 0.82707
+        },
+        "GTQ": {
+            "currency_name": "Quetzal",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 8.046982
+        },
+        "GBP": {
+            "currency_name": "Pound Sterling",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 0.829189
+        },
+        "GNF": {
+            "currency_name": "Guinean Franc",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 9020.846938
+        },
+        "GYD": {
+            "currency_name": "Guyana Dollar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 218.348428
+        },
+        "HTG": {
+            "currency_name": "Gourde",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 136.377159
+        },
+        "HNL": {
+            "currency_name": "Lempira",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 26.516283
+        },
+        "HKD": {
+            "currency_name": "Hong Kong Dollar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 8.10418
+        },
+        "HUF": {
+            "currency_name": "Forint",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 411.607423
+        },
+        "ISK": {
+            "currency_name": "Iceland Krona",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 143.946858
+        },
+        "IDR": {
+            "currency_name": "Rupiah",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 16879.983291
+        },
+        "XDR": {
+            "currency_name": "SDR (Special Drawing Right)",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 0.800203
+        },
+        "IRR": {
+            "currency_name": "Iranian Rial",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 43952.155657
+        },
+        "IQD": {
+            "currency_name": "Iraqi Dinar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 1367.167783
+        },
+        "ILS": {
+            "currency_name": "New Israeli Sheqel",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 3.810542
+        },
+        "JMD": {
+            "currency_name": "Jamaican Dollar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 162.447164
+        },
+        "JPY": {
+            "currency_name": "Yen",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 164.60277
+        },
+        "JOD": {
+            "currency_name": "Jordanian Dinar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 0.740621
+        },
+        "KZT": {
+            "currency_name": "Tenge",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 547.666218
+        },
+        "KES": {
+            "currency_name": "Kenyan Shilling",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 134.934351
+        },
+        "KPW": {
+            "currency_name": "North Korean Won",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 939.873577
+        },
+        "KRW": {
+            "currency_name": "Won",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 1537.289427
+        },
+        "KWD": {
+            "currency_name": "Kuwaiti Dinar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 0.321677
+        },
+        "KGS": {
+            "currency_name": "Som",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 90.854224
+        },
+        "LAK": {
+            "currency_name": "Lao Kip",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 22812.433578
+        },
+        "LBP": {
+            "currency_name": "Lebanese Pound",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 93462.396989
+        },
+        "LSL": {
+            "currency_name": "Loti",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 19.57636
+        },
+        "ZAR": {
+            "currency_name": "Rand",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 19.611284
+        },
+        "LRD": {
+            "currency_name": "Liberian Dollar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 190.985958
+        },
+        "LYD": {
+            "currency_name": "Libyan Dinar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 5.128228
+        },
+        "CHF": {
+            "currency_name": "Swiss Franc",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 0.942588
+        },
+        "MOP": {
+            "currency_name": "Pataca",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 8.34247
+        },
+        "MKD": {
+            "currency_name": "Denar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 61.499055
+        },
+        "MGA": {
+            "currency_name": "Malagasy Ariary",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 4873.538113
+        },
+        "MWK": {
+            "currency_name": "Malawi Kwacha",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 1809.671859
+        },
+        "MYR": {
+            "currency_name": "Malaysian Ringgit",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 4.6628
+        },
+        "MVR": {
+            "currency_name": "Rufiyaa",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 16.084257
+        },
+        "MRU": {
+            "currency_name": "Ouguiya",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 41.577204
+        },
+        "MUR": {
+            "currency_name": "Mauritius Rupee",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 49.071964
+        },
+        "XUA": {
+            "currency_name": "ADB Unit of Account",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": null
+        },
+        "MXN": {
+            "currency_name": "Mexican Peso",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 21.257132
+        },
+        "MXV": {
+            "currency_name": "Mexican Unidad de Inversion (UDI)",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": null
+        },
+        "MDL": {
+            "currency_name": "Moldovan Leu",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 19.202755
+        },
+        "MNT": {
+            "currency_name": "Tugrik",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 3548.546975
+        },
+        "MAD": {
+            "currency_name": "Moroccan Dirham",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 10.536341
+        },
+        "MZN": {
+            "currency_name": "Mozambique Metical",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 66.73496
+        },
+        "MMK": {
+            "currency_name": "Kyat",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 3391.860682
+        },
+        "NAD": {
+            "currency_name": "Namibia Dollar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 19.57636
+        },
+        "NPR": {
+            "currency_name": "Nepalese Rupee",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 142.842913
+        },
+        "NIO": {
+            "currency_name": "Cordoba Oro",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 38.406956
+        },
+        "NGN": {
+            "currency_name": "Naira",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 1617.110656
+        },
+        "OMR": {
+            "currency_name": "Rial Omani",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 0.4021
+        },
+        "PKR": {
+            "currency_name": "Pakistan Rupee",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 290.62499
+        },
+        "PAB": {
+            "currency_name": "Balboa",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 1.04363
+        },
+        "PGK": {
+            "currency_name": "Kina",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 4.239229
+        },
+        "PYG": {
+            "currency_name": "Guarani",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 8156.85842
+        },
+        "PEN": {
+            "currency_name": "Sol",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 3.911516
+        },
+        "PHP": {
+            "currency_name": "Philippine Peso",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 60.447493
+        },
+        "PLN": {
+            "currency_name": "Zloty",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 4.264831
+        },
+        "QAR": {
+            "currency_name": "Qatari Rial",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 3.806216
+        },
+        "RON": {
+            "currency_name": "Romanian Leu",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 4.977889
+        },
+        "RUB": {
+            "currency_name": "Russian Ruble",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 113.604617
+        },
+        "RWF": {
+            "currency_name": "Rwanda Franc",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 1448.05633
+        },
+        "SHP": {
+            "currency_name": "Saint Helena Pound",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 0.82707
+        },
+        "WST": {
+            "currency_name": "Tala",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 2.885192
+        },
+        "STN": {
+            "currency_name": "Dobra",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": null
+        },
+        "SAR": {
+            "currency_name": "Saudi Riyal",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 3.921864
+        },
+        "RSD": {
+            "currency_name": "Serbian Dinar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 117.011193
+        },
+        "SCR": {
+            "currency_name": "Seychelles Rupee",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 14.563365
+        },
+        "SLE": {
+            "currency_name": "Leone",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 23.81568
+        },
+        "SGD": {
+            "currency_name": "Singapore Dollar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 1.416558
+        },
+        "XSU": {
+            "currency_name": "Sucre",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": null
+        },
+        "SBD": {
+            "currency_name": "Solomon Islands Dollar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 8.754985
+        },
+        "SOS": {
+            "currency_name": "Somali Shilling",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 596.431565
+        },
+        "SSP": {
+            "currency_name": "South Sudanese Pound",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": null
+        },
+        "LKR": {
+            "currency_name": "Sri Lanka Rupee",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 305.25789
+        },
+        "SDG": {
+            "currency_name": "Sudanese Pound",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 628.146184
+        },
+        "SRD": {
+            "currency_name": "Surinam Dollar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 36.634079
+        },
+        "SEK": {
+            "currency_name": "Swedish Krona",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 11.500681
+        },
+        "CHE": {
+            "currency_name": "WIR Euro",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": null
+        },
+        "CHW": {
+            "currency_name": "WIR Franc",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": null
+        },
+        "SYP": {
+            "currency_name": "Syrian Pound",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 2623.84695
+        },
+        "TWD": {
+            "currency_name": "New Taiwan Dollar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 34.215617
+        },
+        "TJS": {
+            "currency_name": "Somoni",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 11.375388
+        },
+        "TZS": {
+            "currency_name": "Tanzanian Shilling",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 2563.767476
+        },
+        "THB": {
+            "currency_name": "Baht",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 35.62642
+        },
+        "TOP": {
+            "currency_name": "Pa\u2019anga",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 2.445863
+        },
+        "TTD": {
+            "currency_name": "Trinidad and Tobago Dollar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 7.093051
+        },
+        "TND": {
+            "currency_name": "Tunisian Dinar",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 3.314485
+        },
+        "TRY": {
+            "currency_name": "Turkish Lira",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 36.871817
+        },
+        "TMT": {
+            "currency_name": "Turkmenistan New Manat",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 3.665509
+        },
+        "UGX": {
+            "currency_name": "Uganda Shilling",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 3833.70348
+        },
+        "UAH": {
+            "currency_name": "Hryvnia",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 43.920167
+        },
+        "AED": {
+            "currency_name": "UAE Dirham",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 3.835757
+        },
+        "USN": {
+            "currency_name": "US Dollar (Next day)",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": null
+        },
+        "UYU": {
+            "currency_name": "Peso Uruguayo",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 45.778476
+        },
+        "UYI": {
+            "currency_name": "Uruguay Peso en Unidades Indexadas (UI)",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": null
+        },
+        "UYW": {
+            "currency_name": "Unidad Previsional",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": null
+        },
+        "UZS": {
+            "currency_name": "Uzbekistan Sum",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 13467.841796
+        },
+        "VUV": {
+            "currency_name": "Vatu",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 123.981936
+        },
+        "VES": {
+            "currency_name": "Bol\u00edvar Soberano",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 54.167236
+        },
+        "VED": {
+            "currency_name": "Bol\u00edvar Soberano",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": null
+        },
+        "VND": {
+            "currency_name": "Dong",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 26614.103334
+        },
+        "YER": {
+            "currency_name": "Yemeni Rial",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 261.467733
+        },
+        "ZMW": {
+            "currency_name": "Zambian Kwacha",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 29.065426
+        },
+        "ZWG": {
+            "currency_name": "Zimbabwe Gold",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": null
+        },
+        "XBA": {
+            "currency_name": "Bond Markets Unit European Composite Unit (EURCO)",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": null
+        },
+        "XBB": {
+            "currency_name": "Bond Markets Unit European Monetary Unit (E.M.U.-6)",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": null
+        },
+        "XBC": {
+            "currency_name": "Bond Markets Unit European Unit of Account 9 (E.U.A.-9)",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": null
+        },
+        "XBD": {
+            "currency_name": "Bond Markets Unit European Unit of Account 17 (E.U.A.-17)",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": null
+        },
+        "XTS": {
+            "currency_name": "Codes specifically reserved for testing purposes",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": null
+        },
+        "XXX": {
+            "currency_name": "The codes assigned for transactions where no currency is involved",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": null
+        },
+        "XAU": {
+            "currency_name": "Gold",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 0.000399
+        },
+        "XPD": {
+            "currency_name": "Palladium",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": null
+        },
+        "XPT": {
+            "currency_name": "Platinum",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": null
+        },
+        "XAG": {
+            "currency_name": "Silver",
+            "at": {
+                "date": "2024-12-30 12:29:14.000000",
+                "timezone_type": 1,
+                "timezone": "+00:00"
+            },
+            "rate": 0.035445
+        }
+    },
+    "countries": [
+        {
+            "country_name": "AFGHANISTAN",
+            "currency_code": "AFN"
+        },
+        {
+            "country_name": "\u00c5LAND ISLANDS",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "ALBANIA",
+            "currency_code": "ALL"
+        },
+        {
+            "country_name": "ALGERIA",
+            "currency_code": "DZD"
+        },
+        {
+            "country_name": "AMERICAN SAMOA",
+            "currency_code": "USD"
+        },
+        {
+            "country_name": "ANDORRA",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "ANGOLA",
+            "currency_code": "AOA"
+        },
+        {
+            "country_name": "ANGUILLA",
+            "currency_code": "XCD"
+        },
+        {
+            "country_name": "ANTARCTICA",
+            "currency_code": null
+        },
+        {
+            "country_name": "ANTIGUA AND BARBUDA",
+            "currency_code": "XCD"
+        },
+        {
+            "country_name": "ARGENTINA",
+            "currency_code": "ARS"
+        },
+        {
+            "country_name": "ARMENIA",
+            "currency_code": "AMD"
+        },
+        {
+            "country_name": "ARUBA",
+            "currency_code": "AWG"
+        },
+        {
+            "country_name": "AUSTRALIA",
+            "currency_code": "AUD"
+        },
+        {
+            "country_name": "AUSTRIA",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "AZERBAIJAN",
+            "currency_code": "AZN"
+        },
+        {
+            "country_name": "BAHAMAS (THE)",
+            "currency_code": "BSD"
+        },
+        {
+            "country_name": "BAHRAIN",
+            "currency_code": "BHD"
+        },
+        {
+            "country_name": "BANGLADESH",
+            "currency_code": "BDT"
+        },
+        {
+            "country_name": "BARBADOS",
+            "currency_code": "BBD"
+        },
+        {
+            "country_name": "BELARUS",
+            "currency_code": "BYN"
+        },
+        {
+            "country_name": "BELGIUM",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "BELIZE",
+            "currency_code": "BZD"
+        },
+        {
+            "country_name": "BENIN",
+            "currency_code": "XOF"
+        },
+        {
+            "country_name": "BERMUDA",
+            "currency_code": "BMD"
+        },
+        {
+            "country_name": "BHUTAN",
+            "currency_code": "INR"
+        },
+        {
+            "country_name": "BHUTAN",
+            "currency_code": "BTN"
+        },
+        {
+            "country_name": "BOLIVIA (PLURINATIONAL STATE OF)",
+            "currency_code": "BOB"
+        },
+        {
+            "country_name": "BOLIVIA (PLURINATIONAL STATE OF)",
+            "currency_code": "BOV"
+        },
+        {
+            "country_name": "BONAIRE, SINT EUSTATIUS AND SABA",
+            "currency_code": "USD"
+        },
+        {
+            "country_name": "BOSNIA AND HERZEGOVINA",
+            "currency_code": "BAM"
+        },
+        {
+            "country_name": "BOTSWANA",
+            "currency_code": "BWP"
+        },
+        {
+            "country_name": "BOUVET ISLAND",
+            "currency_code": "NOK"
+        },
+        {
+            "country_name": "BRAZIL",
+            "currency_code": "BRL"
+        },
+        {
+            "country_name": "BRITISH INDIAN OCEAN TERRITORY (THE)",
+            "currency_code": "USD"
+        },
+        {
+            "country_name": "BRUNEI DARUSSALAM",
+            "currency_code": "BND"
+        },
+        {
+            "country_name": "BULGARIA",
+            "currency_code": "BGN"
+        },
+        {
+            "country_name": "BURKINA FASO",
+            "currency_code": "XOF"
+        },
+        {
+            "country_name": "BURUNDI",
+            "currency_code": "BIF"
+        },
+        {
+            "country_name": "CABO VERDE",
+            "currency_code": "CVE"
+        },
+        {
+            "country_name": "CAMBODIA",
+            "currency_code": "KHR"
+        },
+        {
+            "country_name": "CAMEROON",
+            "currency_code": "XAF"
+        },
+        {
+            "country_name": "CANADA",
+            "currency_code": "CAD"
+        },
+        {
+            "country_name": "CAYMAN ISLANDS (THE)",
+            "currency_code": "KYD"
+        },
+        {
+            "country_name": "CENTRAL AFRICAN REPUBLIC (THE)",
+            "currency_code": "XAF"
+        },
+        {
+            "country_name": "CHAD",
+            "currency_code": "XAF"
+        },
+        {
+            "country_name": "CHILE",
+            "currency_code": "CLP"
+        },
+        {
+            "country_name": "CHILE",
+            "currency_code": "CLF"
+        },
+        {
+            "country_name": "CHINA",
+            "currency_code": "CNY"
+        },
+        {
+            "country_name": "CHRISTMAS ISLAND",
+            "currency_code": "AUD"
+        },
+        {
+            "country_name": "COCOS (KEELING) ISLANDS (THE)",
+            "currency_code": "AUD"
+        },
+        {
+            "country_name": "COLOMBIA",
+            "currency_code": "COP"
+        },
+        {
+            "country_name": "COLOMBIA",
+            "currency_code": "COU"
+        },
+        {
+            "country_name": "COMOROS (THE)",
+            "currency_code": "KMF"
+        },
+        {
+            "country_name": "CONGO (THE DEMOCRATIC REPUBLIC OF THE)",
+            "currency_code": "CDF"
+        },
+        {
+            "country_name": "CONGO (THE)",
+            "currency_code": "XAF"
+        },
+        {
+            "country_name": "COOK ISLANDS (THE)",
+            "currency_code": "NZD"
+        },
+        {
+            "country_name": "COSTA RICA",
+            "currency_code": "CRC"
+        },
+        {
+            "country_name": "C\u00d4TE D'IVOIRE",
+            "currency_code": "XOF"
+        },
+        {
+            "country_name": "CROATIA",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "CUBA",
+            "currency_code": "CUP"
+        },
+        {
+            "country_name": "CUBA",
+            "currency_code": "CUC"
+        },
+        {
+            "country_name": "CURA\u00c7AO",
+            "currency_code": "ANG"
+        },
+        {
+            "country_name": "CYPRUS",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "CZECHIA",
+            "currency_code": "CZK"
+        },
+        {
+            "country_name": "DENMARK",
+            "currency_code": "DKK"
+        },
+        {
+            "country_name": "DJIBOUTI",
+            "currency_code": "DJF"
+        },
+        {
+            "country_name": "DOMINICA",
+            "currency_code": "XCD"
+        },
+        {
+            "country_name": "DOMINICAN REPUBLIC (THE)",
+            "currency_code": "DOP"
+        },
+        {
+            "country_name": "ECUADOR",
+            "currency_code": "USD"
+        },
+        {
+            "country_name": "EGYPT",
+            "currency_code": "EGP"
+        },
+        {
+            "country_name": "EL SALVADOR",
+            "currency_code": "SVC"
+        },
+        {
+            "country_name": "EL SALVADOR",
+            "currency_code": "USD"
+        },
+        {
+            "country_name": "EQUATORIAL GUINEA",
+            "currency_code": "XAF"
+        },
+        {
+            "country_name": "ERITREA",
+            "currency_code": "ERN"
+        },
+        {
+            "country_name": "ESTONIA",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "ESWATINI",
+            "currency_code": "SZL"
+        },
+        {
+            "country_name": "ETHIOPIA",
+            "currency_code": "ETB"
+        },
+        {
+            "country_name": "EUROPEAN UNION",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "FALKLAND ISLANDS (THE) [MALVINAS]",
+            "currency_code": "FKP"
+        },
+        {
+            "country_name": "FAROE ISLANDS (THE)",
+            "currency_code": "DKK"
+        },
+        {
+            "country_name": "FIJI",
+            "currency_code": "FJD"
+        },
+        {
+            "country_name": "FINLAND",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "FRANCE",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "FRENCH GUIANA",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "FRENCH POLYNESIA",
+            "currency_code": "XPF"
+        },
+        {
+            "country_name": "FRENCH SOUTHERN TERRITORIES (THE)",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "GABON",
+            "currency_code": "XAF"
+        },
+        {
+            "country_name": "GAMBIA (THE)",
+            "currency_code": "GMD"
+        },
+        {
+            "country_name": "GEORGIA",
+            "currency_code": "GEL"
+        },
+        {
+            "country_name": "GERMANY",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "GHANA",
+            "currency_code": "GHS"
+        },
+        {
+            "country_name": "GIBRALTAR",
+            "currency_code": "GIP"
+        },
+        {
+            "country_name": "GREECE",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "GREENLAND",
+            "currency_code": "DKK"
+        },
+        {
+            "country_name": "GRENADA",
+            "currency_code": "XCD"
+        },
+        {
+            "country_name": "GUADELOUPE",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "GUAM",
+            "currency_code": "USD"
+        },
+        {
+            "country_name": "GUATEMALA",
+            "currency_code": "GTQ"
+        },
+        {
+            "country_name": "GUERNSEY",
+            "currency_code": "GBP"
+        },
+        {
+            "country_name": "GUINEA",
+            "currency_code": "GNF"
+        },
+        {
+            "country_name": "GUINEA-BISSAU",
+            "currency_code": "XOF"
+        },
+        {
+            "country_name": "GUYANA",
+            "currency_code": "GYD"
+        },
+        {
+            "country_name": "HAITI",
+            "currency_code": "HTG"
+        },
+        {
+            "country_name": "HAITI",
+            "currency_code": "USD"
+        },
+        {
+            "country_name": "HEARD ISLAND AND McDONALD ISLANDS",
+            "currency_code": "AUD"
+        },
+        {
+            "country_name": "HOLY SEE (THE)",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "HONDURAS",
+            "currency_code": "HNL"
+        },
+        {
+            "country_name": "HONG KONG",
+            "currency_code": "HKD"
+        },
+        {
+            "country_name": "HUNGARY",
+            "currency_code": "HUF"
+        },
+        {
+            "country_name": "ICELAND",
+            "currency_code": "ISK"
+        },
+        {
+            "country_name": "INDIA",
+            "currency_code": "INR"
+        },
+        {
+            "country_name": "INDONESIA",
+            "currency_code": "IDR"
+        },
+        {
+            "country_name": "INTERNATIONAL MONETARY FUND (IMF)\u00a0",
+            "currency_code": "XDR"
+        },
+        {
+            "country_name": "IRAN (ISLAMIC REPUBLIC OF)",
+            "currency_code": "IRR"
+        },
+        {
+            "country_name": "IRAQ",
+            "currency_code": "IQD"
+        },
+        {
+            "country_name": "IRELAND",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "ISLE OF MAN",
+            "currency_code": "GBP"
+        },
+        {
+            "country_name": "ISRAEL",
+            "currency_code": "ILS"
+        },
+        {
+            "country_name": "ITALY",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "JAMAICA",
+            "currency_code": "JMD"
+        },
+        {
+            "country_name": "JAPAN",
+            "currency_code": "JPY"
+        },
+        {
+            "country_name": "JERSEY",
+            "currency_code": "GBP"
+        },
+        {
+            "country_name": "JORDAN",
+            "currency_code": "JOD"
+        },
+        {
+            "country_name": "KAZAKHSTAN",
+            "currency_code": "KZT"
+        },
+        {
+            "country_name": "KENYA",
+            "currency_code": "KES"
+        },
+        {
+            "country_name": "KIRIBATI",
+            "currency_code": "AUD"
+        },
+        {
+            "country_name": "KOREA (THE DEMOCRATIC PEOPLE\u2019S REPUBLIC OF)",
+            "currency_code": "KPW"
+        },
+        {
+            "country_name": "KOREA (THE REPUBLIC OF)",
+            "currency_code": "KRW"
+        },
+        {
+            "country_name": "KUWAIT",
+            "currency_code": "KWD"
+        },
+        {
+            "country_name": "KYRGYZSTAN",
+            "currency_code": "KGS"
+        },
+        {
+            "country_name": "LAO PEOPLE\u2019S DEMOCRATIC REPUBLIC (THE)",
+            "currency_code": "LAK"
+        },
+        {
+            "country_name": "LATVIA",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "LEBANON",
+            "currency_code": "LBP"
+        },
+        {
+            "country_name": "LESOTHO",
+            "currency_code": "LSL"
+        },
+        {
+            "country_name": "LESOTHO",
+            "currency_code": "ZAR"
+        },
+        {
+            "country_name": "LIBERIA",
+            "currency_code": "LRD"
+        },
+        {
+            "country_name": "LIBYA",
+            "currency_code": "LYD"
+        },
+        {
+            "country_name": "LIECHTENSTEIN",
+            "currency_code": "CHF"
+        },
+        {
+            "country_name": "LITHUANIA",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "LUXEMBOURG",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "MACAO",
+            "currency_code": "MOP"
+        },
+        {
+            "country_name": "NORTH MACEDONIA",
+            "currency_code": "MKD"
+        },
+        {
+            "country_name": "MADAGASCAR",
+            "currency_code": "MGA"
+        },
+        {
+            "country_name": "MALAWI",
+            "currency_code": "MWK"
+        },
+        {
+            "country_name": "MALAYSIA",
+            "currency_code": "MYR"
+        },
+        {
+            "country_name": "MALDIVES",
+            "currency_code": "MVR"
+        },
+        {
+            "country_name": "MALI",
+            "currency_code": "XOF"
+        },
+        {
+            "country_name": "MALTA",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "MARSHALL ISLANDS (THE)",
+            "currency_code": "USD"
+        },
+        {
+            "country_name": "MARTINIQUE",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "MAURITANIA",
+            "currency_code": "MRU"
+        },
+        {
+            "country_name": "MAURITIUS",
+            "currency_code": "MUR"
+        },
+        {
+            "country_name": "MAYOTTE",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "MEMBER COUNTRIES OF THE AFRICAN DEVELOPMENT BANK GROUP",
+            "currency_code": "XUA"
+        },
+        {
+            "country_name": "MEXICO",
+            "currency_code": "MXN"
+        },
+        {
+            "country_name": "MEXICO",
+            "currency_code": "MXV"
+        },
+        {
+            "country_name": "MICRONESIA (FEDERATED STATES OF)",
+            "currency_code": "USD"
+        },
+        {
+            "country_name": "MOLDOVA (THE REPUBLIC OF)",
+            "currency_code": "MDL"
+        },
+        {
+            "country_name": "MONACO",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "MONGOLIA",
+            "currency_code": "MNT"
+        },
+        {
+            "country_name": "MONTENEGRO",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "MONTSERRAT",
+            "currency_code": "XCD"
+        },
+        {
+            "country_name": "MOROCCO",
+            "currency_code": "MAD"
+        },
+        {
+            "country_name": "MOZAMBIQUE",
+            "currency_code": "MZN"
+        },
+        {
+            "country_name": "MYANMAR",
+            "currency_code": "MMK"
+        },
+        {
+            "country_name": "NAMIBIA",
+            "currency_code": "NAD"
+        },
+        {
+            "country_name": "NAMIBIA",
+            "currency_code": "ZAR"
+        },
+        {
+            "country_name": "NAURU",
+            "currency_code": "AUD"
+        },
+        {
+            "country_name": "NEPAL",
+            "currency_code": "NPR"
+        },
+        {
+            "country_name": "NETHERLANDS (THE)",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "NEW CALEDONIA",
+            "currency_code": "XPF"
+        },
+        {
+            "country_name": "NEW ZEALAND",
+            "currency_code": "NZD"
+        },
+        {
+            "country_name": "NICARAGUA",
+            "currency_code": "NIO"
+        },
+        {
+            "country_name": "NIGER (THE)",
+            "currency_code": "XOF"
+        },
+        {
+            "country_name": "NIGERIA",
+            "currency_code": "NGN"
+        },
+        {
+            "country_name": "NIUE",
+            "currency_code": "NZD"
+        },
+        {
+            "country_name": "NORFOLK ISLAND",
+            "currency_code": "AUD"
+        },
+        {
+            "country_name": "NORTHERN MARIANA ISLANDS (THE)",
+            "currency_code": "USD"
+        },
+        {
+            "country_name": "NORWAY",
+            "currency_code": "NOK"
+        },
+        {
+            "country_name": "OMAN",
+            "currency_code": "OMR"
+        },
+        {
+            "country_name": "PAKISTAN",
+            "currency_code": "PKR"
+        },
+        {
+            "country_name": "PALAU",
+            "currency_code": "USD"
+        },
+        {
+            "country_name": "PALESTINE, STATE OF",
+            "currency_code": null
+        },
+        {
+            "country_name": "PANAMA",
+            "currency_code": "PAB"
+        },
+        {
+            "country_name": "PANAMA",
+            "currency_code": "USD"
+        },
+        {
+            "country_name": "PAPUA NEW GUINEA",
+            "currency_code": "PGK"
+        },
+        {
+            "country_name": "PARAGUAY",
+            "currency_code": "PYG"
+        },
+        {
+            "country_name": "PERU",
+            "currency_code": "PEN"
+        },
+        {
+            "country_name": "PHILIPPINES (THE)",
+            "currency_code": "PHP"
+        },
+        {
+            "country_name": "PITCAIRN",
+            "currency_code": "NZD"
+        },
+        {
+            "country_name": "POLAND",
+            "currency_code": "PLN"
+        },
+        {
+            "country_name": "PORTUGAL",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "PUERTO RICO",
+            "currency_code": "USD"
+        },
+        {
+            "country_name": "QATAR",
+            "currency_code": "QAR"
+        },
+        {
+            "country_name": "R\u00c9UNION",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "ROMANIA",
+            "currency_code": "RON"
+        },
+        {
+            "country_name": "RUSSIAN FEDERATION (THE)",
+            "currency_code": "RUB"
+        },
+        {
+            "country_name": "RWANDA",
+            "currency_code": "RWF"
+        },
+        {
+            "country_name": "SAINT BARTH\u00c9LEMY",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
+            "currency_code": "SHP"
+        },
+        {
+            "country_name": "SAINT KITTS AND NEVIS",
+            "currency_code": "XCD"
+        },
+        {
+            "country_name": "SAINT LUCIA",
+            "currency_code": "XCD"
+        },
+        {
+            "country_name": "SAINT MARTIN (FRENCH PART)",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "SAINT PIERRE AND MIQUELON",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "SAINT VINCENT AND THE GRENADINES",
+            "currency_code": "XCD"
+        },
+        {
+            "country_name": "SAMOA",
+            "currency_code": "WST"
+        },
+        {
+            "country_name": "SAN MARINO",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "SAO TOME AND PRINCIPE",
+            "currency_code": "STN"
+        },
+        {
+            "country_name": "SAUDI ARABIA",
+            "currency_code": "SAR"
+        },
+        {
+            "country_name": "SENEGAL",
+            "currency_code": "XOF"
+        },
+        {
+            "country_name": "SERBIA",
+            "currency_code": "RSD"
+        },
+        {
+            "country_name": "SEYCHELLES",
+            "currency_code": "SCR"
+        },
+        {
+            "country_name": "SIERRA LEONE",
+            "currency_code": "SLE"
+        },
+        {
+            "country_name": "SINGAPORE",
+            "currency_code": "SGD"
+        },
+        {
+            "country_name": "SINT MAARTEN (DUTCH PART)",
+            "currency_code": "ANG"
+        },
+        {
+            "country_name": "SISTEMA UNITARIO DE COMPENSACION REGIONAL DE PAGOS \"SUCRE\"",
+            "currency_code": "XSU"
+        },
+        {
+            "country_name": "SLOVAKIA",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "SLOVENIA",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "SOLOMON ISLANDS",
+            "currency_code": "SBD"
+        },
+        {
+            "country_name": "SOMALIA",
+            "currency_code": "SOS"
+        },
+        {
+            "country_name": "SOUTH AFRICA",
+            "currency_code": "ZAR"
+        },
+        {
+            "country_name": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+            "currency_code": null
+        },
+        {
+            "country_name": "SOUTH SUDAN",
+            "currency_code": "SSP"
+        },
+        {
+            "country_name": "SPAIN",
+            "currency_code": "EUR"
+        },
+        {
+            "country_name": "SRI LANKA",
+            "currency_code": "LKR"
+        },
+        {
+            "country_name": "SUDAN (THE)",
+            "currency_code": "SDG"
+        },
+        {
+            "country_name": "SURINAME",
+            "currency_code": "SRD"
+        },
+        {
+            "country_name": "SVALBARD AND JAN MAYEN",
+            "currency_code": "NOK"
+        },
+        {
+            "country_name": "SWEDEN",
+            "currency_code": "SEK"
+        },
+        {
+            "country_name": "SWITZERLAND",
+            "currency_code": "CHF"
+        },
+        {
+            "country_name": "SWITZERLAND",
+            "currency_code": "CHE"
+        },
+        {
+            "country_name": "SWITZERLAND",
+            "currency_code": "CHW"
+        },
+        {
+            "country_name": "SYRIAN ARAB REPUBLIC",
+            "currency_code": "SYP"
+        },
+        {
+            "country_name": "TAIWAN (PROVINCE OF CHINA)",
+            "currency_code": "TWD"
+        },
+        {
+            "country_name": "TAJIKISTAN",
+            "currency_code": "TJS"
+        },
+        {
+            "country_name": "TANZANIA, UNITED REPUBLIC OF",
+            "currency_code": "TZS"
+        },
+        {
+            "country_name": "THAILAND",
+            "currency_code": "THB"
+        },
+        {
+            "country_name": "TIMOR-LESTE",
+            "currency_code": "USD"
+        },
+        {
+            "country_name": "TOGO",
+            "currency_code": "XOF"
+        },
+        {
+            "country_name": "TOKELAU",
+            "currency_code": "NZD"
+        },
+        {
+            "country_name": "TONGA",
+            "currency_code": "TOP"
+        },
+        {
+            "country_name": "TRINIDAD AND TOBAGO",
+            "currency_code": "TTD"
+        },
+        {
+            "country_name": "TUNISIA",
+            "currency_code": "TND"
+        },
+        {
+            "country_name": "T\u00dcRK\u0130YE",
+            "currency_code": "TRY"
+        },
+        {
+            "country_name": "TURKMENISTAN",
+            "currency_code": "TMT"
+        },
+        {
+            "country_name": "TURKS AND CAICOS ISLANDS (THE)",
+            "currency_code": "USD"
+        },
+        {
+            "country_name": "TUVALU",
+            "currency_code": "AUD"
+        },
+        {
+            "country_name": "UGANDA",
+            "currency_code": "UGX"
+        },
+        {
+            "country_name": "UKRAINE",
+            "currency_code": "UAH"
+        },
+        {
+            "country_name": "UNITED ARAB EMIRATES (THE)",
+            "currency_code": "AED"
+        },
+        {
+            "country_name": "UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)",
+            "currency_code": "GBP"
+        },
+        {
+            "country_name": "UNITED STATES MINOR OUTLYING ISLANDS (THE)",
+            "currency_code": "USD"
+        },
+        {
+            "country_name": "UNITED STATES OF AMERICA (THE)",
+            "currency_code": "USD"
+        },
+        {
+            "country_name": "UNITED STATES OF AMERICA (THE)",
+            "currency_code": "USN"
+        },
+        {
+            "country_name": "URUGUAY",
+            "currency_code": "UYU"
+        },
+        {
+            "country_name": "URUGUAY",
+            "currency_code": "UYI"
+        },
+        {
+            "country_name": "URUGUAY",
+            "currency_code": "UYW"
+        },
+        {
+            "country_name": "UZBEKISTAN",
+            "currency_code": "UZS"
+        },
+        {
+            "country_name": "VANUATU",
+            "currency_code": "VUV"
+        },
+        {
+            "country_name": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+            "currency_code": "VES"
+        },
+        {
+            "country_name": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+            "currency_code": "VED"
+        },
+        {
+            "country_name": "VIET NAM",
+            "currency_code": "VND"
+        },
+        {
+            "country_name": "VIRGIN ISLANDS (BRITISH)",
+            "currency_code": "USD"
+        },
+        {
+            "country_name": "VIRGIN ISLANDS (U.S.)",
+            "currency_code": "USD"
+        },
+        {
+            "country_name": "WALLIS AND FUTUNA",
+            "currency_code": "XPF"
+        },
+        {
+            "country_name": "WESTERN SAHARA",
+            "currency_code": "MAD"
+        },
+        {
+            "country_name": "YEMEN",
+            "currency_code": "YER"
+        },
+        {
+            "country_name": "ZAMBIA",
+            "currency_code": "ZMW"
+        },
+        {
+            "country_name": "ZIMBABWE",
+            "currency_code": "ZWG"
+        },
+        {
+            "country_name": "ZZ01_Bond Markets Unit European_EURCO",
+            "currency_code": "XBA"
+        },
+        {
+            "country_name": "ZZ02_Bond Markets Unit European_EMU-6",
+            "currency_code": "XBB"
+        },
+        {
+            "country_name": "ZZ03_Bond Markets Unit European_EUA-9",
+            "currency_code": "XBC"
+        },
+        {
+            "country_name": "ZZ04_Bond Markets Unit European_EUA-17",
+            "currency_code": "XBD"
+        },
+        {
+            "country_name": "ZZ06_Testing_Code",
+            "currency_code": "XTS"
+        },
+        {
+            "country_name": "ZZ07_No_Currency",
+            "currency_code": "XXX"
+        },
+        {
+            "country_name": "ZZ08_Gold",
+            "currency_code": "XAU"
+        },
+        {
+            "country_name": "ZZ09_Palladium",
+            "currency_code": "XPD"
+        },
+        {
+            "country_name": "ZZ10_Platinum",
+            "currency_code": "XPT"
+        },
+        {
+            "country_name": "ZZ11_Silver",
+            "currency_code": "XAG"
+        }
+    ]
+}
